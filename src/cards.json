@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Card1",
+    "image": "images/49ers.png"
+  },
+  {
+    "id": 2,
+    "name": "Card2",
+    "image": "images/bears.png"
+  },
+  {
+    "id": 3,
+    "name": "Card3",
+    "image": "images/cardinals.png"
+  },
+  {
+    "id": 4,
+    "name": "Card4",
+    "image": "images/cowboys.png"
+  },
+  {
+    "id": 5,
+    "name": "Card5",
+    "image": "images/eagles.png"
+  },
+  {
+    "id": 6,
+    "name": "Card6",
+    "image": "images/giants.png"
+  },
+  {
+    "id": 7,
+    "name": "Card7",
+    "image": "images/packers.png"
+  },
+  {
+    "id": 8,
+    "name": "Card8",
+    "image": "images/rams.png"
+  },
+  {
+    "id": 9,
+    "name": "Card9",
+    "image": "images/redskins.png"
+  },
+  {
+    "id": 10,
+    "name": "Card10",
+    "image": "images/saints.png"
+  },
+  {
+    "id": 11,
+    "name": "Card11",
+    "image": "images/seahawks.png"
+  },
+  {
+    "id": 12,
+    "name": "Card12",
+    "image": "images/vikings.png"
+  }
+]
